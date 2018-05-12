@@ -1,0 +1,28 @@
+_repo: An-Appeal-to-the-British-Nation-on-the-Humanity-and-Policy-of-Forming-a-National-Institution-__27322
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hillary, William, Sir
+    birthdate: 1771
+    deathdate: 1847
+    gutenberg_agent_id: '32627'
+    url: http://www.gutenberg.org/2009/agents/32627
+description: ''
+gutenberg_issued: '2008-11-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'Lifesaving -- Great Britain'
+- !lcc 'VK'
+title: An Appeal to the British Nation on the Humanity and Policy of Forming a National
+  Institution for the Preservation of Lives and Property from Shipwreck (1825)
+url: http://www.gutenberg.org/ebooks/27322
