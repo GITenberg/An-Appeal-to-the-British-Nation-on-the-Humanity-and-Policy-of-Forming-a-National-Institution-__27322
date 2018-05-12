@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32627'
     url: http://www.gutenberg.org/2009/agents/32627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27322#An-Appeal-to-the-British-Nation-on-the-Humanity-and-Policy-of-Forming-a-National-Institution-_
 gutenberg_issued: '2008-11-24'
 gutenberg_type: Text
 identifiers:
